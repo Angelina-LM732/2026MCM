@@ -8,7 +8,7 @@
 | 文件 | 说明 |
 |---|---|
 | [`2631051_Paper.pdf`](2631051_Paper.pdf) | 我们队的完整论文（含摘要页、目录、正文、致 MCM Agency 信件、参考文献、AI 使用报告） |
-| [`2026_MCM_Problem_B.pdf`](2026_MCM_Problem_B.pdf) | 2026 MCM B 题原题（© COMAP） |
+| 题目原文 | 2026 MCM B 题（© COMAP），见 [COMAP 2026 赛题页面](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2026/problems/) 或 [COMAP 资源页](https://www.comap.com/membership/member-resources/item/creating-a-moon-colony-using-a-space-elevator-system) |
 
 ## 题目概要
 
