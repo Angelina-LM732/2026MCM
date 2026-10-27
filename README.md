@@ -3,6 +3,21 @@
 **Team Control Number:** 2631051
 **Paper title:** *Flying to the Moon: the Space Elevator with Rockets — Optimizing Planetary-Scale Transport System*
 
+## Summary
+
+We design an Earth–Moon transport plan for a 100,000-person Moon colony (about 100 million tonnes of material), comparing a space-elevator system, conventional rockets, and a combination of the two.
+
+| Question | Method | Main finding |
+|---|---|---|
+| Three transport plans | Cost–time bi-objective optimization, Pareto front | Elevator only ≈ 186 years; rockets only ≈ 164 years at far higher cost; the hybrid plan takes **87.1 years and US$18.2 trillion**, with the elevator carrying 46.75% of the mass |
+| Non-ideal operation | Repairable series-system availability (MTBF/MTTR) + Monte Carlo (10,000 runs), 3% rocket failure rate | Schedule +28.6%, cost +3.1%; optimal split shifts to 52.3% elevator / 47.7% rockets |
+| Water for one year | EOQ-type inventory–resupply optimization at 15 / 30 / 50 L per person per day | Elevator + Apex transfer is always cheaper than ground rockets; resupply about every six months |
+| Environmental impact | Cost–time–emissions tri-objective optimization under three policies | Emissions −85% at +15% cost and +17% time |
+
+**My role:** led the modeling team.
+
+> 中文说明见下方。
+
 ## 文件 / Files
 
 | 文件 | 说明 |
